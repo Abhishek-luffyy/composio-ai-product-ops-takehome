@@ -1,0 +1,101 @@
+id,category,app,evidence_url
+1,CRM & Sales,Salesforce,https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart.html
+2,CRM & Sales,HubSpot,https://developers.hubspot.com/docs/api/overview
+3,CRM & Sales,Pipedrive,https://developers.pipedrive.com/docs/api/v1/
+4,CRM & Sales,Attio,https://docs.attio.com/
+5,CRM & Sales,Twenty,https://docs.twenty.com/
+6,CRM & Sales,Podio,https://developers.podio.com/authentication
+7,CRM & Sales,Zoho CRM,https://www.zoho.com/crm/developer/docs/api/v8/
+8,CRM & Sales,Close,https://developer.close.com/api/overview/api-key-authentication
+9,CRM & Sales,Copper,https://developer.copper.com/introduction/authentication.html
+10,CRM & Sales,DealCloud,https://api.docs.dealcloud.com/
+11,Support & Helpdesk,Zendesk,https://developer.zendesk.com/documentation/authentication/
+12,Support & Helpdesk,Intercom,https://developers.intercom.com/docs/build-an-integration/learn-more/authentication
+13,Support & Helpdesk,Freshdesk,https://developers.freshdesk.com/api/
+14,Support & Helpdesk,Front,https://dev.frontapp.com/docs/authentication
+15,Support & Helpdesk,Pylon,https://docs.usepylon.com/
+16,Support & Helpdesk,LiveAgent,https://www.liveagent.com/api/
+17,Support & Helpdesk,Plain,https://www.plain.com/docs
+18,Support & Helpdesk,Help Scout,https://developer.helpscout.com/
+19,Support & Helpdesk,Gorgias,https://developers.gorgias.com/
+20,Support & Helpdesk,Gladly,https://developer.gladly.com/
+21,Communications,Slack,https://api.slack.com/authentication
+22,Communications,Twilio,https://www.twilio.com/docs/usage/api
+23,Communications,Zoho Cliq,https://www.zoho.com/cliq/help/restapi/
+24,Communications,Lark,https://open.larksuite.com/document/uAjLw4CM/ukTMukTMukTM/
+25,Communications,Pumble,https://pumble.com/
+26,Communications,Discord,https://discord.com/developers/docs/topics/oauth2
+27,Communications,Telegram,https://core.telegram.org/bots/api
+28,Communications,WhatsApp Business,https://developers.facebook.com/docs/whatsapp/cloud-api/
+29,Communications,Aircall,https://developer.aircall.io/docs/authentication
+30,Communications,Vonage,https://developer.vonage.com/en/getting-started/concepts/authentication
+31,Marketing & Ads,Google Ads,https://developers.google.com/google-ads/api/rest/auth
+32,Marketing & Ads,Meta Ads,https://developers.facebook.com/docs/marketing-apis/
+33,Marketing & Ads,LinkedIn Ads,https://learn.microsoft.com/linkedin/marketing/
+34,Marketing & Ads,GoHighLevel,https://marketplace.gohighlevel.com/docs/Authorization/OAuth2.0/
+35,Marketing & Ads,Mailchimp,https://mailchimp.com/developer/marketing/guides/how-to-use-oauth2/
+36,Marketing & Ads,Klaviyo,https://developers.klaviyo.com/en/reference/api_overview
+37,Marketing & Ads,systeme.io,https://systeme.io/
+38,Marketing & Ads,Pinterest,https://developers.pinterest.com/docs/reference/
+39,Marketing & Ads,Threads,https://developers.facebook.com/docs/threads/
+40,Marketing & Ads,SendGrid,https://www.twilio.com/docs/sendgrid/for-developers/sending-email/authentication
+41,Ecommerce,Shopify,https://shopify.dev/docs/apps/build/authentication-authorization
+42,Ecommerce,WooCommerce,https://woocommerce.com/document/woocommerce-rest-api/
+43,Ecommerce,BigCommerce,https://developer.bigcommerce.com/docs/start/authentication
+44,Ecommerce,Salesforce Commerce Cloud,https://developer.salesforce.com/docs/commerce/
+45,Ecommerce,Magento / Adobe Commerce,https://developer.adobe.com/commerce/webapi/rest/
+46,Ecommerce,Squarespace,https://developers.squarespace.com/
+47,Ecommerce,Ecwid,https://api-docs.ecwid.com/
+48,Ecommerce,Gumroad,https://gumroad.com/api
+49,Ecommerce,Amazon Selling Partner API,https://developer-docs.amazon.com/sp-api/
+50,Ecommerce,fanbasis,https://fanbasis.com/
+51,Data / SEO / Scraping,DataForSEO,https://docs.dataforseo.com/v3/auth/
+52,Data / SEO / Scraping,SE Ranking,https://seranking.com/api/
+53,Data / SEO / Scraping,Ahrefs,https://ahrefs.com/api
+54,Data / SEO / Scraping,MrScraper,https://docs.mrscraper.com/
+55,Data / SEO / Scraping,Apify,https://docs.apify.com/api/v2
+56,Data / SEO / Scraping,Firecrawl,https://docs.firecrawl.dev/
+57,Data / SEO / Scraping,Bright Data,https://docs.brightdata.com/
+58,Data / SEO / Scraping,Sherlock,https://github.com/sherlock-project/sherlock
+59,Data / SEO / Scraping,Waterfall.io,https://waterfall.io/
+60,Data / SEO / Scraping,Clay,https://www.clay.com/
+61,Developer / Infra,GitHub,https://docs.github.com/en/rest/authentication/
+62,Developer / Infra,Vercel,https://vercel.com/docs/rest-api
+63,Developer / Infra,Netlify,https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api/
+64,Developer / Infra,Cloudflare,https://developers.cloudflare.com/api/
+65,Developer / Infra,Supabase,https://supabase.com/docs/guides/api
+66,Developer / Infra,Neo4j,https://neo4j.com/docs/api/
+67,Developer / Infra,Snowflake,https://docs.snowflake.com/en/developer-guide/sql-api/authenticating
+68,Developer / Infra,MongoDB Atlas,https://www.mongodb.com/docs/atlas/configure-api-access/
+69,Developer / Infra,Datadog,https://docs.datadoghq.com/api/latest/authentication/
+70,Developer / Infra,Sentry,https://docs.sentry.io/api/auth/
+71,Productivity,Notion,https://developers.notion.com/reference/authentication
+72,Productivity,Airtable,https://airtable.com/developers/web/api/authentication
+73,Productivity,Linear,https://linear.app/developers/graphql
+74,Productivity,Jira,https://developer.atlassian.com/cloud/jira/platform/rest/v3/
+75,Productivity,Asana,https://developers.asana.com/docs/authentication
+76,Productivity,Monday.com,https://developer.monday.com/api-reference/docs/authentication
+77,Productivity,ClickUp,https://developer.clickup.com/docs/authentication
+78,Productivity,Coda,https://coda.io/developers/apis/v1
+79,Productivity,Smartsheet,https://developers.smartsheet.com/api/smartsheet/openapi
+80,Productivity,Harvest,https://help.getharvest.com/api-v2/introduction/overview/general/
+81,Finance,Stripe,https://docs.stripe.com/keys
+82,Finance,Plaid,https://plaid.com/docs/api/
+83,Finance,Binance,https://developers.binance.com/docs/binance-spot-api-docs/rest-api/general-api-information
+84,Finance,Paygent Connect,https://paygent.com/
+85,Finance,iPayX,https://ipayx.ai/docs
+86,Finance,QuickBooks,https://developer.intuit.com/app/developer/qbo/docs/develop/authentication-and-authorization
+87,Finance,Xero,https://developer.xero.com/documentation/guides/oauth2/overview/
+88,Finance,Brex,https://developer.brex.com/guides/authentication
+89,Finance,Ramp,https://docs.ramp.com/
+90,Finance,PitchBook,https://pitchbook.com/
+91,AI / Research / Media,NotebookLM,https://cloud.google.com/gemini
+92,AI / Research / Media,Otter AI,https://help.otter.ai/hc/en-us
+93,AI / Research / Media,Fathom,https://fathom.video/
+94,AI / Research / Media,Consensus,https://consensus.app/
+95,AI / Research / Media,Reducto,https://docs.reducto.ai/
+96,AI / Research / Media,Devin,https://docs.devin.ai/
+97,AI / Research / Media,higgsfield,https://higgsfield.ai/cli
+98,AI / Research / Media,Mermaid CLI,https://github.com/mermaid-js/mermaid-cli
+99,AI / Research / Media,YouTube Transcript,https://transcriptapi.com/
+100,AI / Research / Media,Grain,https://grain.com/
